@@ -6,3 +6,5 @@ manipulations on characters (like cctype) and strings (cstring/string).
 Assumptions: User will write a sentence. After the user clicks enter a menu will 
 show up to give the user options to pick from and depending on the options the 
 user picks it will display certain outputs.
+
+Class: INTRO TO PROGRAMMING
