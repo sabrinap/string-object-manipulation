@@ -1,4 +1,4 @@
-/* Name: Sabrina Pinera
+/* 
 Date: November 20, 2018
 Section: 5
 Assignment: #6
@@ -9,8 +9,7 @@ manipulations on characters (like cctype) and strings (cstring/string).
 Assumptions: User will write a sentence. After the user clicks enter a menu will
 show up to give the user options to pick from and depending on the options the
 user picks it will display certain outputs.
-
-All work below was performed by Sabrina Pinera */
+*/
 #include <iostream>
 #include <cstdlib> // for srand and rand
 #include <ctime>  // for time
